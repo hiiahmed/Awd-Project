@@ -71,8 +71,9 @@ const FilterPopup = (props) => {
         }}
       >
         <Grid container direction="column" alignItems="center" spacing={3}>
-          {/* <Grid container item alignItems="center">
+          <Grid container item alignItems="center">
             <Grid item xs={3}>
+              
               Application Status
             </Grid>
             <Grid
@@ -143,7 +144,7 @@ const FilterPopup = (props) => {
                 />
               </Grid>
             </Grid>
-          </Grid> */}
+          </Grid> 
           <Grid container item alignItems="center">
             <Grid item xs={3}>
               Sort
