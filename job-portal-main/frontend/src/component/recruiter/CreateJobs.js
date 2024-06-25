@@ -43,7 +43,7 @@ const CreateJobs = (props) => {
     skillsets: [],
     jobType: "Full Time",
     duration: 0,
-    salary: 0,
+    salary: 0,  
   });
 
   const handleInput = (key, value) => {
